@@ -22,6 +22,10 @@ m <- matrix(c(0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,
 
 The output is a matrix where the first column is the number of the vertex and the second one is the color we should apply to it (each color is a number).
 
+##### Known issues
+
+When excecuting the function, the first time we want to see/use the output, it does nothing, it has to be printed 2 times... We suppose it is something about the data table...
+
 ##### Disclaimer
 
 The code is not optimal, at all. Also it has not been tested thoroughly.
